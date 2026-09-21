@@ -6,7 +6,7 @@ Slack 원인추적 초안을 만드는 스킬. `/daily-inquiry-cause-report`로 
 ## 사용 전 준비 (각자 1회)
 이 스킬은 파일만으론 안 돌아가고, 실행자 계정에 아래가 연결/허용돼 있어야 한다.
 
-1. **MCP 커넥터**: Slack, Google Drive, (선택) Mixpanel. Claude Code에서 각자 연결.
+1. **MCP 커넥터**: Slack, (선택) Mixpanel. Claude Code에서 각자 연결.
 2. **Slack 접근 권한**: `#growth`(C03AG61KVJS), `#growth_internal`(C071PE9G2EQ) 멤버십.
    캠페인명·전주 유입을 이 채널들에서 읽어온다.
 3. **대시보드/시트 접근**: 태블로 "매체구분별/매체별 전체 성과(D0)", "타앱한도조회 알림톡" 시트.
